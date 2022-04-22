@@ -1,6 +1,8 @@
 # ZFO_Distributed-Routing
 This repository contains code for the distributed routing test case in the paper "Zeroth-Order Feedback Optimization for Cooperative Multi-Agent Systems". The code is in Matlab.
 
+The "new-test-case" branch contains a new distributed routing test case.
+
 ## File List
 - main.m: Script for the simulation without knowledge of function dependence.
 - main_f_dependence.m: Script for the simulation with knowledge of function dependence.
